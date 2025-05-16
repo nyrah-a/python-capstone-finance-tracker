@@ -3,6 +3,7 @@
 # Python Capstone: Personal Finance Tracker
 
 ##Project Description
+
 This is a command-line Python program that helps users track personal expenses. It allows users to:
 - Add expenses with description, category, and amount
 - View all expenses by category
